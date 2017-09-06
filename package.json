@@ -1,6 +1,6 @@
 {
-  "name": "react-native-multiple-select",
-  "version": "0.2.1",
+  "name": "@zooshgroup/react-native-multiple-select",
+  "version": "0.2.2",
   "description": "Simple multi-select component for react-native",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toystars/react-native-multiple-select.git"
+    "url": "git+https://github.com/zooshgroup/react-native-multiple-select.git"
   },
   "keywords": [
     "reactnative",
@@ -20,12 +20,12 @@
     "multi-select",
     "react-native"
   ],
-  "author": "Mustapha Babatunde Oluwaleke",
+  "author": "Zooshgroup",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/toystars/react-native-multiple-select/issues"
   },
-  "homepage": "https://github.com/toystars/react-native-multiple-select#readme",
+  "homepage": "https://github.com/zooshgroup/react-native-multiple-select#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "^7.1.1",
