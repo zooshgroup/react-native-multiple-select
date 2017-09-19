@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/zooshgroup/react-native-multiple-select#readme",
   "dependencies": {
+    "ramda": "^0.24.1",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
