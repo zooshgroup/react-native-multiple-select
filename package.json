@@ -1,6 +1,6 @@
 {
   "name": "@zooshgroup/react-native-multiple-select",
-  "version": "0.2.22",
+  "version": "0.2.23",
   "description": "Simple multi-select component for react-native",
   "main": "index.js",
   "scripts": {
@@ -29,7 +29,7 @@
   "dependencies": {
     "ramda": "0.24.1",
     "underscore": "1.8.3",
-    "prop-types": "15.6.1",
+    "prop-types": "15.6.1"
   },
   "devDependencies": {
     "babel-eslint": "7.1.1",
