@@ -11,7 +11,7 @@ import {
   Text,
   View,
 } from 'react-native';
-import MultiSelect from 'react-native-multiple-select';
+import MultiSelect from '@zooshgroop/react-native-multiple-select';
 
 const items = [{
   id: '92iijs7yta',
